@@ -1,0 +1,8 @@
+.Rhistory
+.RData
+*.Rproj
+.Rproj.user/**
+source/*
+/rsconnect/*
+shinyapp/.Rhistory
+shinyapp/rsconnect/*
